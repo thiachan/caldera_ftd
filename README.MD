@@ -1,6 +1,6 @@
-Caldera Add-On for FTD Ignite Lab
+Caldera Demo Files for Cisco FTD Ignite Lab
 
-==================================
+=======================================
 
 This GitHub repository has been developed exclusively for use within the FTD Ignite Lab, conducted in a controlled, supervised, and fully authorized environment.
 
